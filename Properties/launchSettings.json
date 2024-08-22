@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LithRageTexPacker": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\GS2\\WORK\\TEXTURES\\3DO.bmp\" \"G:\\GS2\\WORK\\PALETTES\\GLOBAL.PAL\""
+    }
+  }
+}
